@@ -1,0 +1,23 @@
+# 依赖
+node_modules/
+
+# 运行时生成的临时文件
+qr/
+qrkeys.json
+
+# 环境变量
+.env
+.env.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 本地登录与验证数据
+local-userinfo.json
+verification-*.json
+

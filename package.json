@@ -1,0 +1,15 @@
+{
+  "name": "kgcheckin",
+  "type": "module",
+  "scripts": {
+    "main": "node main.js",
+    "install": "cd api && npm ci",
+    "apiService": "cd api && npm run start",
+    "phoneLogin": "node phoneLogin.js",
+    "sent": "node sent.js",
+    "qrcodeLogin": "node qrcodeLogin.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
