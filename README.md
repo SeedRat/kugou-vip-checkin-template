@@ -1,4 +1,4 @@
-# 酷狗概念 VIP 自动签到工作流
+# 酷狗概念自动签到领VIP
 
 面向个人账号的 GitHub Actions 签到模板，基于 [develop202/kgcheckin](https://github.com/develop202/kgcheckin) 调整。支持本地扫码授权、Actions Secret 保存登录信息、手动执行和可选定时签到。
 
